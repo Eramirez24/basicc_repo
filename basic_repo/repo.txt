@@ -1,0 +1,4 @@
+Steps taken to upload to Github.
+Sent to github and made a repo called basic repo.
+Opened gitbash and went to my coding folder using cd and ls commands.
+Once in my coding folder I used mkdir to make a new directory and touch to create new files.

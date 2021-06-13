@@ -2,3 +2,10 @@ Steps taken to upload to Github.
 Sent to github and made a repo called basic repo.
 Opened gitbash and went to my coding folder using cd and ls commands.
 Once in my coding folder I used mkdir to make a new directory and touch to create new files.
+Once i added content to all files I git init.
+I added the files by using git add . and then checked the status by using get status.
+Then i commited the files by using git commit -m 'initial commit'.
+Used command git branch -m main.
+Then used git remote add origin to upload to git.
+And pused files by using command git push -u origin main.
+I logged in to github and made sure my files were upladed and they were.
